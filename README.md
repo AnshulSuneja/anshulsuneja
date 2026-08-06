@@ -4,7 +4,8 @@ Software Engineer with 8 years of experience architecting and delivering high-pe
 
 ## Selected work
 
-- **[Varonis DatAdvantage Cloud](https://www.varonis.com/blog/meet-datadvantage-cloud)** — Enterprise cloud data security platform mapping identities, permissions, and activity across AWS, Salesforce, Okta, GitHub, and more. Led frontend architecture: JS→TypeScript migration, monorepo consolidation, and a Node.js BFF that collapsed multiple GraphQL queries into single endpoints for the dashboard. *(Proprietary — product link only.)*
+- **[Varonis DatAdvantage Cloud](https://www.varonis.com/blog/meet-datadvantage-cloud)** — Enterprise data security platform spanning DSPM, data access governance, DLP, database activity monitoring, data-centric UEBA, and identity security (identity resolution, posture, ITDR) across AWS, Salesforce, Okta, GitHub, and more. Led frontend architecture: JS→TypeScript migration, monorepo consolidation, and a Node.js BFF that collapsed multiple GraphQL queries into single endpoints for permissions and activity dashboards. <br>
+(Proprietary — product link only.)
 
 - **[StackLens AI](https://stacklensai.vercel.app)** — AI-powered dependency analysis and upgrade automation for JS/TS repos. Scans your manifest, explains what's safe to bump, and opens the PR for you. GitHub OAuth, two-tier action model, Supabase-backed. → [Live](https://stacklensai.vercel.app)
 
